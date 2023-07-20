@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Elite",
+    "productieTijd": 3
+  },
+  {
+    "type": "Enjoy",
+    "productieTijd": 2
+  },
+  {
+    "type": "Essential",
+    "productieTijd": 1
+  }
+]
